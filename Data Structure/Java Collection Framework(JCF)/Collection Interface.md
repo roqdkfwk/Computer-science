@@ -1,6 +1,6 @@
 # Collection Interface
 
-![Untitled](/images/Collection%20Interface/Untitled.png)
+![Untitled](./images/Collection%20Interface/Untitled.png)
 
 - **List**, **Set**, **Queue**에 상속을 하는 실질적인 최상위 컬렉션 타입이다.
 - 즉, 업캐스팅으로 다양한 종류의 컬렉션 자료형을 받아 자료를 삽입하거나 삭제, 탐색 기능을 할 수 있다. (다형성)

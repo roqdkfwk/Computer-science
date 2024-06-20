@@ -1,6 +1,6 @@
 # TreeSet Class
 
-![Untitled](/images/TreeSet%20Class/Untitled.png)
+![Untitled](./images/TreeSet%20Class/Untitled.png)
 
 - 이진 검색 트리(binary search tree) 자료구조의 형태로 데이터를 저장
 - 중복을 허용하지 않고, 순서를 가지지 않는다.

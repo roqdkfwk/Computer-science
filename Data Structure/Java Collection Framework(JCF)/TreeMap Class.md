@@ -1,6 +1,6 @@
 # TreeMap Class
 
-![Untitled](/images/TreeMap%20Class/Untitled.png)
+![Untitled](./images/TreeMap%20Class/Untitled.png)
 
 - 이진 검색 트리의 형태로 키(key)와 값(value)의 쌍으로 이루어진 데이터를 저장 (TreeSet과 같은 원리)
 - TreeMap은 SortedMap 인터페이스를 구현하고 있어 **key값을 기준으로 정렬**되는 특징을 가지고 있다.

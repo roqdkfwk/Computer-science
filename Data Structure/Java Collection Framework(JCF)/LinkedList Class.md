@@ -1,6 +1,6 @@
 # LinkedList Class
 
-![Untitled](/images/LinkedList%20Class/Untitled.png)
+![Untitled](./images/LinkedList%20Class/Untitled.png)
 
 - **노드(객체)를 연결**하여 리스트처럼 만든 컬렉션(배열이 아님)
 - 데이터의 **중간 삽입, 삭제가 빈번할 경우 빠른 성능을 보장**한다.

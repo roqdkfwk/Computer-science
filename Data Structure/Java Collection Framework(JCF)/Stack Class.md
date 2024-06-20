@@ -1,6 +1,6 @@
 # Stack Class
 
-![Untitled](/images/Stack%20Class/Untitled.png)
+![Untitled](./images/Stack%20Class/Untitled.png)
 
 - 후입선출 LIFO(Last-In-First-Out) 자료구조
 - 들어올때는 push, 나갈때는 pop이라는 용어를 사용한다.

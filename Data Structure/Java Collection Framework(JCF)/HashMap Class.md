@@ -1,6 +1,6 @@
 # HashMap Class
 
-![Untitled](/images/HashMap%20Class/Untitled.png)
+![Untitled](./images/HashMap%20Class/Untitled.png)
 
 - HashTable을 보완한 컬렉션
 - 배열과 연결이 결합된 Hashing형태로, 키(key)와 값(value)을 묶어 하나의 데이터로 저장한다.

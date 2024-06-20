@@ -1,6 +1,6 @@
 # Queue Interface
 
-![Untitled](/images/Queue%20Interface/Untitled.png)
+![Untitled](./images/Queue%20Interface/Untitled.png)
 
 - 선입선출 FIFO(First-In-First-Out) 구조
 - 자바에서는 **Queue**는 인터페이스이고 필요에 따라 큐 컬렉션을 골라 사용할 수 있다.

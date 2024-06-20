@@ -1,6 +1,6 @@
 # HashTable Class
 
-![Untitled](/images/HashTable%20Class/Untitled.png)
+![Untitled](./images/HashTable%20Class/Untitled.png)
 
 - 자바 초기 버전에 나온 레거시 클래스
 - Key를 특정 해시 함수를 통해 해싱한 후 나온 결과를 배열의 인덱스로 사용하여 Value를 찾는 방식으로 동작한다.

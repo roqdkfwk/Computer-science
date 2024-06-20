@@ -1,6 +1,6 @@
 # ArrayList Class
 
-![Untitled](/images/ArrayList%20Class/Untitled.png)
+![Untitled](./images/ArrayList%20Class/Untitled.png)
 
 - 배열을 이용하여 만든 리스트
 - 데이터의 저장 순서가 유지되고 중복을 허용

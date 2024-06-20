@@ -1,6 +1,6 @@
 # Set Interface
 
-![Untitled](/images/Set%20Interface/Untitled.png)
+![Untitled](./images/Set%20Interface/Untitled.png)
 
 - 데이터의 **중복을 허용하지 않고 순서를 유지하지 않는** 데이터의 집합 리스트
 - 순서 자체가 없으므로 인덱스로 객체를 검색해서 가져오는 `get(index)` 메서드도 존재하지 않는다.

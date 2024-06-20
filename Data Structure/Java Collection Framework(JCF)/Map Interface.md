@@ -1,6 +1,6 @@
 # Map Interface
 
-![Untitled](/images/Map%20Entry%20Interface/Untitled.png)
+![Untitled](./images/Map%20Entry%20Interface/Untitled.png)
 
 - **키(Key)**와 **값(Value)**의 쌍으로 연관지어 이루어진 데이터의 집합
 - **값(Value)은 중복되어 저장**될 수 있지만, **키(Key)는 해당 Map에서 고유**하다.

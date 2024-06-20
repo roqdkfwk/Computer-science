@@ -1,6 +1,6 @@
 # Deque - LinkedList Class
 
-![Untitled](/images/Deque%20-%20LinkedList%20Class/Untitled.png)
+![Untitled](./images/Deque%20-%20LinkedList%20Class/Untitled.png)
 
 - **LinkedList**는 **List 인터페이스**와 **Queue 인터페이스**를 동시에 상속받고 있기 때문에, 스택, 큐 로도 응용이 가능하다.
 - 실제로 **LinkedList 클래스**에 큐 동작과 관련된 메서드를 지원한다. (`push`, `pop`, `poll`, `peek`, `offer` … 등)

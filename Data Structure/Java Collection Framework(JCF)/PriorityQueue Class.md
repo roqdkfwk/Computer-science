@@ -1,6 +1,6 @@
 # PriorityQueue Class
 
-![Untitled](/images/PriorityQueue%20Class/Untitled.png)
+![Untitled](./images/PriorityQueue%20Class/Untitled.png)
 
 - 우선 순위를 가지는 큐(우선 순위 큐)
 - 일반적인 큐와는 다르게, 원소에 **우선 순위(priority)**를 부여하여 우선 순위가 높은 순으로 정렬되고 꺼낸다.
