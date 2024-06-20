@@ -1,6 +1,6 @@
 # Vector Class
 
-![Untitled](Vector%20Class%20cf1719dd22134c3a9398dcdc78b8e0d4/Untitled.png)
+![Untitled](/images/Vector%20Class/Untitled.png)
 
 - **ArrayList**의 구형 버전(내부 구성이 거의 비슷하다.)
 - **ArrayList**와의 차이는 모든 메소드가 동기화(synchronized) 되어있어 Thread-Safe 하다는 점이다.

@@ -1,6 +1,6 @@
 # List Interface
 
-![Untitled](List%20Interface%20db924ecd604143c88ade16a34ce872c6/Untitled.png)
+![Untitled](/images/List%20Interface/Untitled.png)
 
 - 저장 순서가 유지되는 컬렉션을 구현하는데 사용
 - 같은 요소의 중복 저장을 허용

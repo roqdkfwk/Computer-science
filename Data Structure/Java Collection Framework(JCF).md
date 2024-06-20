@@ -1,6 +1,6 @@
 # Java Collection Framework(JCF)
 
-![Untitled](Java%20Collection%20Framework(JCF)%207eb6348de16f4587935115f6419b4ec7/Untitled.png)
+![Untitled](/Java%20Collection%20Framework(JCF)/images/Untitled)
 
 ![Untitled](Java%20Collection%20Framework(JCF)%207eb6348de16f4587935115f6419b4ec7/Untitled%201.png)
 
