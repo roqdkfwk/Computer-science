@@ -1,8 +1,8 @@
 # Java Collection Framework(JCF)
 
-![Untitled](./Java%20Collection%20Framework(JCF)/images/Untitled)
+![Untitled](./images/Untitled.png)
 
-![Untitled](./Java%20Collection%20Framework(JCF)/images/Untitled 1)
+![Untitled](./images/Untitled%201.png)
 
 컬렉션 프레임워크는 크게 Collection 인터페이스와 Map 인터페이스로 나뉜다.
 List와 Set 인터페이스를 구현한 컬렉션 클래스들은 공통 부분이 많기 때문에, 공통된 부분을 모은 Collection 인터페이스로 상속 되어있다.
