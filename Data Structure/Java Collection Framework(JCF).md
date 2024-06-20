@@ -10,7 +10,7 @@ Map 인터페이스의 컬렉션들은 두 개의 데이터를 묶어 한 쌍으
 
 [Collection Interface](Java%20Collection%20Framework(JCF)%207eb6348de16f4587935115f6419b4ec7/Collection%20Interface%20d0fc9f0993884b76900d5f9003b11ef2.md)
 
-[List Interface]([Java%20Collection%20Framework(JCF)%207eb6348de16f4587935115f6419b4ec7/List%20Interface%20db924ecd604143c88ade16a34ce872c6.md](https://github.com/roqdkfwk/Computer-science/blob/main/Data%20Structure/Java%20Collection%20Framework(JCF)/List%20Interface.md))
+[List Interface](https://github.com/roqdkfwk/Computer-science/blob/main/Data%20Structure/Java%20Collection%20Framework(JCF)/List%20Interface.md)
 
 [Queue Interface](Java%20Collection%20Framework(JCF)%207eb6348de16f4587935115f6419b4ec7/Queue%20Interface%2015a3d1de313b4cfe8547c1045fdeaeb0.md)
 
