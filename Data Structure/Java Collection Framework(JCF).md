@@ -8,46 +8,46 @@
 List와 Set 인터페이스를 구현한 컬렉션 클래스들은 공통 부분이 많기 때문에, 공통된 부분을 모은 Collection 인터페이스로 상속 되어있다.
 Map 인터페이스의 컬렉션들은 두 개의 데이터를 묶어 한 쌍으로 다루기 때문에 Collection 인터페이스와 따로 분리되어 있다.
 
-[Collection Interface](Java%20Collection%20Framework(JCF)%207eb6348de16f4587935115f6419b4ec7/Collection%20Interface%20d0fc9f0993884b76900d5f9003b11ef2.md)
+[Collection Interface](https://github.com/roqdkfwk/Computer-science/blob/main/Data%20Structure/Java%20Collection%20Framework(JCF)/Collection%20Interface.md)
 
 [List Interface](https://github.com/roqdkfwk/Computer-science/blob/main/Data%20Structure/Java%20Collection%20Framework(JCF)/List%20Interface.md)
 
-[Queue Interface](Java%20Collection%20Framework(JCF)%207eb6348de16f4587935115f6419b4ec7/Queue%20Interface%2015a3d1de313b4cfe8547c1045fdeaeb0.md)
+[Queue Interface](https://github.com/roqdkfwk/Computer-science/blob/main/Data%20Structure/Java%20Collection%20Framework(JCF)/Queue%20Interface.md)
 
-[Deque Interface](Java%20Collection%20Framework(JCF)%207eb6348de16f4587935115f6419b4ec7/Deque%20Interface%20f3d8914c92764ef2aa252b1dc35d31b5.md)
+[Deque Interface](https://github.com/roqdkfwk/Computer-science/blob/main/Data%20Structure/Java%20Collection%20Framework(JCF)/Deque%20Interface.md)
 
-[Set Interface](Java%20Collection%20Framework(JCF)%207eb6348de16f4587935115f6419b4ec7/Set%20Interface%20ce327aa3140946fb865c7abe1aa67969.md)
+[Set Interface](https://github.com/roqdkfwk/Computer-science/blob/main/Data%20Structure/Java%20Collection%20Framework(JCF)/Set%20Interface.md)
 
-[Map Interface](Java%20Collection%20Framework(JCF)%207eb6348de16f4587935115f6419b4ec7/Map%20Interface%20884b86960836433584a4eea59b22cbac.md)
+[Map Interface](https://github.com/roqdkfwk/Computer-science/blob/main/Data%20Structure/Java%20Collection%20Framework(JCF)/Map%20Interface.md)
 
-[Map.Entry Interface](Java%20Collection%20Framework(JCF)%207eb6348de16f4587935115f6419b4ec7/Map%20Entry%20Interface%205d5be8aa767346db9a64813178746a6c.md)
+[Map.Entry Interface](https://github.com/roqdkfwk/Computer-science/blob/main/Data%20Structure/Java%20Collection%20Framework(JCF)/Map%20Entry%20Interface.md)
 
-[ArrayList Class](Java%20Collection%20Framework(JCF)%207eb6348de16f4587935115f6419b4ec7/ArrayList%20Class%201a947159c6974b47b829d8f7f7621bdf.md)
+[ArrayList Class](https://github.com/roqdkfwk/Computer-science/blob/main/Data%20Structure/Java%20Collection%20Framework(JCF)/ArrayList%20Class.md)
 
-[LinkedList Class](Java%20Collection%20Framework(JCF)%207eb6348de16f4587935115f6419b4ec7/LinkedList%20Class%20ae6d5a59adb848a4905bbd0221620020.md)
+[LinkedList Class](https://github.com/roqdkfwk/Computer-science/blob/main/Data%20Structure/Java%20Collection%20Framework(JCF)/LinkedList%20Class.md)
 
-[Vector Class](Java%20Collection%20Framework(JCF)%207eb6348de16f4587935115f6419b4ec7/Vector%20Class%20cf1719dd22134c3a9398dcdc78b8e0d4.md)
+[Vector Class](https://github.com/roqdkfwk/Computer-science/blob/main/Data%20Structure/Java%20Collection%20Framework(JCF)/Vector%20Class.md)
 
-[Stack Class](Java%20Collection%20Framework(JCF)%207eb6348de16f4587935115f6419b4ec7/Stack%20Class%206d96294e997748ab94f480ec2c0e6e61.md)
+[Stack Class](https://github.com/roqdkfwk/Computer-science/blob/main/Data%20Structure/Java%20Collection%20Framework(JCF)/Stack%20Class.md)
 
-[PriorityQueue Class](Java%20Collection%20Framework(JCF)%207eb6348de16f4587935115f6419b4ec7/PriorityQueue%20Class%20c7abec97a78e4bffb3cfd814a01cf3db.md)
+[PriorityQueue Class](https://github.com/roqdkfwk/Computer-science/blob/main/Data%20Structure/Java%20Collection%20Framework(JCF)/PriorityQueue%20Class.md)
 
-[ArrayDeque Class](Java%20Collection%20Framework(JCF)%207eb6348de16f4587935115f6419b4ec7/ArrayDeque%20Class%20aea8029e3e74410485c8404e87d9151a.md)
+[ArrayDeque Class](https://github.com/roqdkfwk/Computer-science/blob/main/Data%20Structure/Java%20Collection%20Framework(JCF)/ArrayDeque%20Class.md)
 
-[Deque - LinkedList Class](Java%20Collection%20Framework(JCF)%207eb6348de16f4587935115f6419b4ec7/Deque%20-%20LinkedList%20Class%2037c0a8b020dd4ca696082d276b433379.md)
+[Deque - LinkedList Class](https://github.com/roqdkfwk/Computer-science/blob/main/Data%20Structure/Java%20Collection%20Framework(JCF)/Deque%20-%20LinkedList%20Class.md)
 
-[HashSet Class](Java%20Collection%20Framework(JCF)%207eb6348de16f4587935115f6419b4ec7/HashSet%20Class%20262bcc032e7944de8de9a27cdae480fa.md)
+[HashSet Class](https://github.com/roqdkfwk/Computer-science/blob/main/Data%20Structure/Java%20Collection%20Framework(JCF)/HashSet%20Class.md)
 
-[LinkedHashSet Class](Java%20Collection%20Framework(JCF)%207eb6348de16f4587935115f6419b4ec7/LinkedHashSet%20Class%20378500098c9f423d9436a2297de80f39.md)
+[LinkedHashSet Class](https://github.com/roqdkfwk/Computer-science/blob/main/Data%20Structure/Java%20Collection%20Framework(JCF)/LinkedHashSet%20Class.md)
 
-[TreeSet Class](Java%20Collection%20Framework(JCF)%207eb6348de16f4587935115f6419b4ec7/TreeSet%20Class%206a608b9c33114e569b0a32e54b25af70.md)
+[TreeSet Class](https://github.com/roqdkfwk/Computer-science/blob/main/Data%20Structure/Java%20Collection%20Framework(JCF)/TreeSet%20Class.md)
 
-[EnumSet Abstract Class](Java%20Collection%20Framework(JCF)%207eb6348de16f4587935115f6419b4ec7/EnumSet%20Abstract%20Class%20f3c06eb3cd7f4015846534958854b947.md)
+[EnumSet Abstract Class](https://github.com/roqdkfwk/Computer-science/blob/main/Data%20Structure/Java%20Collection%20Framework(JCF)/EnumSet%20Abstract%20Class.md)
 
-[HashMap Class](Java%20Collection%20Framework(JCF)%207eb6348de16f4587935115f6419b4ec7/HashMap%20Class%2050b673eccb5c4f37999d3fc3b5812158.md)
+[HashMap Class](https://github.com/roqdkfwk/Computer-science/blob/main/Data%20Structure/Java%20Collection%20Framework(JCF)/HashMap%20Class.md)
 
-[LinkedHashMap Class](Java%20Collection%20Framework(JCF)%207eb6348de16f4587935115f6419b4ec7/LinkedHashMap%20Class%2050bd0b87454e49118ceb1033ab8fd727.md)
+[LinkedHashMap Class](https://github.com/roqdkfwk/Computer-science/blob/main/Data%20Structure/Java%20Collection%20Framework(JCF)/LinkedHashMap%20Class.md)
 
-[TreeMap Class](Java%20Collection%20Framework(JCF)%207eb6348de16f4587935115f6419b4ec7/TreeMap%20Class%20d3dae699b73f4e728cf8913359b4ef8b.md)
+[TreeMap Class](https://github.com/roqdkfwk/Computer-science/blob/main/Data%20Structure/Java%20Collection%20Framework(JCF)/TreeMap%20Class.md)
 
-[HashTable Class](Java%20Collection%20Framework(JCF)%207eb6348de16f4587935115f6419b4ec7/HashTable%20Class%202d876d064d5246e0b36a3b2967910a42.md)
+[HashTable Class](https://github.com/roqdkfwk/Computer-science/blob/main/Data%20Structure/Java%20Collection%20Framework(JCF)/HashTable%20Class.md)
