@@ -38,7 +38,7 @@
 
 ## 주요 메소드
 
-![TreeSet 메서드](./images/TreeSet1.png)
+![TreeSet1.PNG](./images/TreeSet1.PNG)
 
 ### TreeSet 사용법
 
@@ -73,7 +73,6 @@
   ```
 
 - **TreeSet 값 출력**
-
   ```java
   TreeSet<Integer> set = new TreeSet<>(Arrays.asList(4, 2, 3));  // 초기값 지정
 
@@ -86,7 +85,6 @@
   		System.out.println(iter.next());
   }
   ```
-
     <aside>
     💡 `Iterator`란?
     [Iterator](https://www.notion.so/Iterator-cdeddd9dc35d4f6e841082d8d63f044e?pvs=21)
