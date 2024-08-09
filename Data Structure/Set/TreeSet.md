@@ -38,7 +38,7 @@
 
 ## 주요 메소드
 
-![](./images/TreeSet1.png)
+![TreeSet 메서드](./images/TreeSet1.png)
 
 ### TreeSet 사용법
 
